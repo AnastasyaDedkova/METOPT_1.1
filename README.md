@@ -106,8 +106,7 @@
 
 ```
 ## Схема
-
-![Схема](https://github.com/AnastasyaDedkova/METOPT_1.1/blob/main/Task1/Task1.png)
+<img src="https://github.com/AnastasyaDedkova/METOPT_1.1/blob/main/Task1/Task1.png" alt="Схема" width="500" height="1101"/>
 
 ## Пример входного файла problem.txt (math-формат)
 
