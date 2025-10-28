@@ -11,6 +11,7 @@
 Демонстрация работы: 
 
 https://disk.yandex.ru/i/k-xqXAdMIYyWGg
+![](https://github.com/AnastasyaDedkova/METOPT_1.1/blob/main/Task1/Task1_1.png)
 
 Бонус - подкаст (звукозапись до 1,5 минут с впечатлениями о выполнении работы - как в рефлективном заключении):
 
